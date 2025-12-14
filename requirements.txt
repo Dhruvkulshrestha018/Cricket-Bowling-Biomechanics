@@ -1,0 +1,7 @@
+mediapipe==0.10.11
+opencv-python==4.9.0.80
+numpy==1.24.3
+scipy==1.11.4
+matplotlib==3.8.0
+pandas==2.1.4
+filterpy==1.4.5  # For Kalman filtering
